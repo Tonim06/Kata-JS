@@ -1,5 +1,5 @@
 const nom = document.querySelector('#Nom');
-const boto = document.querySelector('button');
+const boto = document.querySelector('#primerBoto');
 const resultat = document.querySelector('#resultat');
 
 
